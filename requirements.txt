@@ -1,0 +1,14 @@
+google-play-scraper
+pandas
+ipykernel
+scikit-learn
+telethon
+dotenv
+
+seaborn
+matplotlib
+
+transformers 
+datasets 
+seqeval
+accelerate
