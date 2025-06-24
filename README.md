@@ -4,7 +4,7 @@ This project develops a **smart FinTech engine** that transforms unstructured Te
 Building a Named Entity Recognition (NER) system to extract:
 
 - 📦 **Product Names**  
-- 🪙 **Prices**  
+- 💲 **Prices**  
 - 📍 **Locations** 
 1. **Automate Telegram Data Extraction**  
 2. **Fine-Tune NER Models**  
