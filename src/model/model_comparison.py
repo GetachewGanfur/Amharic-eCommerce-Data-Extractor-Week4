@@ -15,7 +15,7 @@ for model_name in models:
     model = AutoModelForTokenClassification.from_pretrained(model_name, num_labels=len(label2id), id2label=id2label, label2id=label2id)
     trainer = Trainer(
         model,
-        args,
+        args, 
         train_dataset=tokenized_datasets["train"],
         eval_dataset=tokenized_datasets["test"],
         data_collator=data_collator,
