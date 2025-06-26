@@ -12,3 +12,5 @@ transformers
 datasets 
 seqeval
 accelerate
+shap
+lime
